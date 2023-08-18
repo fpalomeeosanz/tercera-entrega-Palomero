@@ -694,6 +694,6 @@ if(elemento == "cohete"){
 
 
 
-const selector_interactivo = document.querySelector("#selector_interactivo");
+
 
 
